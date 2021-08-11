@@ -1,0 +1,17 @@
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\bin\Release\observer.exe.config
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\bin\Release\observer.exe.manifest
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\bin\Release\observer.application
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\bin\Release\observer.exe
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\bin\Release\observer.pdb
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\bin\Release\Newtonsoft.Json.dll
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\bin\Release\Newtonsoft.Json.xml
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\obj\Release\observer.csprojAssemblyReference.cache
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\obj\Release\observer.Adicionar.resources
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\obj\Release\observer.Observer.resources
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\obj\Release\observer.Properties.Resources.resources
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\obj\Release\observer.csproj.GenerateResource.cache
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\obj\Release\observer.exe.manifest
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\obj\Release\observer.application
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\obj\Release\observer.csproj.CopyComplete
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\obj\Release\observer.exe
+G:\GoogleDrive\[Programação]\[Desenvolvimento]\C# WindowsForms\observer\observer\obj\Release\observer.pdb
